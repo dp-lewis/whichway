@@ -1,4 +1,4 @@
-Whichway
+Whichway [![Build Status](https://travis-ci.org/dp-lewis/whichway.png?branch=master)](https://travis-ci.org/dp-lewis/whichway)
 ========
 
 Whichway is a small JavaScript library for working out the bearing between 2 locations.
