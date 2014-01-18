@@ -2,6 +2,7 @@
   "name": "whichway",
   "version": "0.1.0",
   "description": "Whichway is a small JavaScript library for working out the bearing between 2 locations.",
+  "main": "./src/whichway.js",
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt test"
   },
