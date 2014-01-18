@@ -12,10 +12,9 @@ var location2 = {
     lng: 151.196117,
     lat: -33.907319
 };
-```
 
 var myBearing = new Whichway(location1, location2).getBearing();
-
+```
 
 You can also get the distance between 2 locations in kilometres
 
