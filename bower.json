@@ -1,0 +1,20 @@
+{
+  "name": "whichway",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dp-lewis/whichway",
+  "authors": [
+    "David Lewis <mail@david-lewis.com>"
+  ],
+  "description": "Whichway is a small JavaScript library for working out the bearing between 2 locations.",
+  "main": "./src/whichway.js",
+  "keywords": [
+    "Geolocation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "spec"
+  ]
+}
