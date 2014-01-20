@@ -1,6 +1,6 @@
 {
   "name": "whichway",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Whichway is a small JavaScript library for working out the bearing between 2 locations.",
   "main": "./src/whichway.js",
   "scripts": {
